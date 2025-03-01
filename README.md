@@ -1,8 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-# Hey there! 👋 I'm Leonardo Gonçalves
-
-## 🚀 **Full-Stack Developer** | Passionate about Web & Real-time Apps
+# 🚀 **Full-Stack Developer** | Passionate about Web & Real-time Apps
 ✨ _"Code is like humor. When you have to explain it, it’s bad."_ ✨
 
 <img src="https://github-readme-stats.vercel.app/api?username=oileo&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
