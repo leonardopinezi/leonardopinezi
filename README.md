@@ -2,12 +2,6 @@
 
 # Hey there! 👋 I'm Leonardo Gonçalves
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50px"/>
-</div>
-
 ## 🚀 **Full-Stack Developer** | Passionate about Web & Real-time Apps
 ✨ _"Code is like humor. When you have to explain it, it’s bad."_ ✨
 
