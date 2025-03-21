@@ -1,7 +1,3 @@
-<div>
-  <img width="70%" src="https://cdn.discordapp.com/attachments/1332893801097990226/1345550120762216529/github-header-image.png?ex=67c4f4b3&is=67c3a333&hm=65094d2dbfbe5768b4d5785b074afa6d2df91537eacfa74352517fe0e8546d8f&" />
-</div>
-
 ## 🚀 **Full-Stack Developer** | Passionate about Web & Real-time Apps
 ✨ _"Code is like humor. When you have to explain it, it’s bad."_ ✨
 
