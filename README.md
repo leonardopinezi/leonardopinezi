@@ -3,8 +3,8 @@
 
 ## About me
 
-- 💡 **Tech Stack**: JavaScript, Node.js, Express, Socket.io, Vue.js, Linux
-- 🎯 **Currently Learning**: C, Bash, jQuery, and Chinese
+- 💡 **Tech Stack**: JavaScript, Node.js, Express, Socket.io, C, Linux
+- 🎯 **Currently Learning**: Bash, jQuery, and Chinese
 - 🇧🇷 **From**: Brazil | 18 y/o
 - 📈 **Goal**: Becoming a top-tier full-stack dev & contributing to open-source
 - 💬 **Let's Connect: Always open to collabs and new ideas!**
