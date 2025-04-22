@@ -28,11 +28,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
-## 🛡 Status
-
-<img src="https://github-readme-stats.vercel.app/api?username=leonardopinezi&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardopinezi&theme=dark" width="48%" >
-
 ## Socials
 
 <div>
