@@ -30,8 +30,8 @@
 
 ## 🛡 Status
 
-<img src="https://github-readme-stats.vercel.app/api?username=oileo&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oileo&theme=dark" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api?username=leonardopinezi&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardopinezi&theme=dark" width="48%" >
 
 ## Socials
 
