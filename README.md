@@ -3,7 +3,7 @@
 
 ## About me
 
-- 💡 **Tech Stack**: JavaScript, Node.js, Express, Socket.io, C, Linux
+- 💡 **Tech Stack**: JavaScript, Node.js, Express, Socket.io, C, C++, Lua, Linux, Asm x86_64
 - 🎯 **Currently Learning**: Bash, jQuery, and Chinese
 - 🇧🇷 **From**: Brazil | 18 y/o
 - 📈 **Goal**: Becoming a top-tier full-stack dev & contributing to open-source
