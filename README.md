@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 💡 **Tech Stack**: JavaScript (Node.js, Express, Socket.io), C, C++, Lua, Bash, Asm x86_64, Linux  
+- 💡 **Tech Stack**: JavaScript (Node.js, Express, Socket.io), C, Bash, Asm x86_64, Linux  
 - ⚙️ **Focus Areas**: Real-time systems, compilers, low-level programming, and backend architecture  
 - 📚 **Currently Learning**: Chinese 🇨🇳 & C#  
 - 🌍 **From**: Brazil | 18 y/o  
