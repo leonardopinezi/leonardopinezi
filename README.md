@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 💡 **Tech Stack**: JavaScript (Node.js, Express, Socket.io), C, Bash, Asm x86_64, Linux  
+- 💡 **Tech Stack**: JavaScript (Node.js, Express, Socket.io), PHP, C, Bash, Asm x86_64, Linux  
 - ⚙️ **Focus Areas**: Real-time systems, compilers, low-level programming, and backend architecture  
 - 📚 **Currently Learning**: Chinese 🇨🇳 & C#  
 - 🌍 **From**: Brazil | 18 y/o  
@@ -22,6 +22,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="70"/>
